@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "n4FEMMHLF8rD+F2XM3MaJfAL3ZeW8zf6jWBRAQx7nBo=",
+  "Source": "IdentityService",
+  "BasePath": "_content/IdentityService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/bin/Debug/net9.0/Entities.deps.json
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/bin/Debug/net9.0/Entities.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/bin/Debug/net9.0/Entities.pdb
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.AssemblyInfoInputs.cache
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.AssemblyInfo.cs
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/refint/Entities.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.pdb
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/ref/Entities.dll

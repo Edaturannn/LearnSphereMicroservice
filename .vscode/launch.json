@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "IdentityService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/IdentityService/IdentityService.csproj"
+        },
+        {
+            "name": "CourseService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/CourseService/CourseService.csproj"
+        },
+        {
+            "name": "CatalogService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/CatalogService/CatalogService.csproj"
+        },
+        {
+            "name": "EnrollmentService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/EnrollmentService/EnrollmentService.csproj"
+        },
+        {
+            "name": "CommentService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/CommentService/CommentService.csproj"
+        },
+        {
+            "name": "PaymentService",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Services/PaymentService/PaymentService.csproj"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/bin/Debug/net9.0/Events.deps.json
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/bin/Debug/net9.0/Events.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/bin/Debug/net9.0/Events.pdb
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.AssemblyInfoInputs.cache
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.AssemblyInfo.cs
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/refint/Events.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/Events.pdb
+/Users/eda/Desktop/MicroserviceNew/Shared/Events/obj/Debug/net9.0/ref/Events.dll

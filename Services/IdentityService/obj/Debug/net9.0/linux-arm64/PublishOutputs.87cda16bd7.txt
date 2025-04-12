@@ -1,0 +1,9 @@
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/IdentityService
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/appsettings.Development.json
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/appsettings.json
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/IdentityService.dll
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/IdentityService.deps.json
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/IdentityService.runtimeconfig.json
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/IdentityService.pdb
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/eda/Desktop/MicroserviceNew/Services/IdentityService/bin/Debug/net9.0/linux-arm64/publish/Microsoft.OpenApi.dll
