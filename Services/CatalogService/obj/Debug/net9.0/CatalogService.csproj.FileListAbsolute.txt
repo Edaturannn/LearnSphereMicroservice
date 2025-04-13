@@ -171,3 +171,5 @@
 /Users/eda/Desktop/MicroserviceNew/Services/CatalogService/obj/Debug/net9.0/CatalogService.pdb
 /Users/eda/Desktop/MicroserviceNew/Services/CatalogService/obj/Debug/net9.0/CatalogService.genruntimeconfig.cache
 /Users/eda/Desktop/MicroserviceNew/Services/CatalogService/obj/Debug/net9.0/ref/CatalogService.dll
+/Users/eda/Desktop/MicroserviceNew/Services/CatalogService/obj/Debug/net9.0/CatalogService.sourcelink.json
+/Users/eda/Desktop/MicroserviceNew/Services/CatalogService/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

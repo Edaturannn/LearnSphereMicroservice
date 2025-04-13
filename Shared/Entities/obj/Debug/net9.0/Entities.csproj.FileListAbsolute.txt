@@ -9,3 +9,4 @@
 /Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/refint/Entities.dll
 /Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.pdb
 /Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/ref/Entities.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Entities/obj/Debug/net9.0/Entities.sourcelink.json

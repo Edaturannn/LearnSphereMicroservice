@@ -4,6 +4,7 @@ using Entities.Concrete.CatalogService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Dtos.Dtos.CatalogDtos.CategoryDtos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CatalogService.Controllers;
 
@@ -49,6 +50,7 @@ public class CategoriesController : ControllerBase
     }
 
     // POST: api/Categories
+    [Authorize]
     [HttpPost]
     public async Task<IActionResult> CreateCategory([FromBody]CreateCategoryDto createCategoryDto)
     {

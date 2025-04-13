@@ -13,3 +13,4 @@
 /Users/eda/Desktop/MicroserviceNew/Shared/Dtos/obj/Debug/net9.0/refint/Dtos.dll
 /Users/eda/Desktop/MicroserviceNew/Shared/Dtos/obj/Debug/net9.0/Dtos.pdb
 /Users/eda/Desktop/MicroserviceNew/Shared/Dtos/obj/Debug/net9.0/ref/Dtos.dll
+/Users/eda/Desktop/MicroserviceNew/Shared/Dtos/obj/Debug/net9.0/Dtos.sourcelink.json
